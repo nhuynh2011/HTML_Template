@@ -71,9 +71,16 @@ ul {
 .services li {
 	border-bottom: 2px #666 dashed;
 	padding-bottom: 20px;
+	list-style: none;
 }
 
 .services a {
 	background: #666;
 	padding: 10px;
+}
+
+input, textarea {
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 15px;
 }
